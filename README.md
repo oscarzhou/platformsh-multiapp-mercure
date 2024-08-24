@@ -7,8 +7,10 @@ Symfony for Platform.sh
 </a>
 </p>
 
+## mercure page
 ![mercure-page](./assets/mercure-page.png)
 
+## Symfony page
 ![symfony-page](./assets/symfony-page.png)
 
 
