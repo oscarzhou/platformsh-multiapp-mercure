@@ -122,6 +122,7 @@
       MERCURE_TRANSPORT_URL: "bolt:///var/run/mercure.db?size=1000&cleanup_frequency=0.5"
       MERCURE_EXTRA_DIRECTIVES: |
         cors_origin *
+        cors_headers Authorization, Content-Type
         publish_origins *
         subscriptions
         demo
